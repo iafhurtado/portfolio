@@ -1,4 +1,4 @@
-import Logo from '../../assets/logo.jpg'
+import Analytical from '../../assets/Analytical.JPG'
 import data from './data'
 import {IoIosColorPalette} from 'react-icons/io'
 import { useModalContext } from '../../context/modal-context'
@@ -11,7 +11,7 @@ const Navbar = () => {
     <nav>
       <div className="container nav__container">
         <a href="index.html" className='nav__logo'>
-          <img src={Logo} alt="Logo" />
+          <img src={Analytical} alt="Logo" />
         </a>
         <ul className='nav__menu'>
           {
