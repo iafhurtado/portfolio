@@ -1,4 +1,5 @@
-import Analytical from '../../assets/Analytical.JPG'
+import IFH from '../../assets/IFH.png'
+import {FiRefreshCw} from 'react-icons/fi'
 import data from './data'
 import {IoIosColorPalette} from 'react-icons/io'
 import { useModalContext } from '../../context/modal-context'
@@ -11,7 +12,7 @@ const Navbar = () => {
     <nav>
       <div className="container nav__container">
         <a href="index.html" className='nav__logo'>
-          <img src={Analytical} alt="Logo" />
+          <a><FiRefreshCw/></a>
         </a>
         <ul className='nav__menu'>
           {
