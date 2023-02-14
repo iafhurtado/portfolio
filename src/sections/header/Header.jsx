@@ -18,7 +18,7 @@ const Header = () => {
         </div>
         <h3  data-aos="fade-up">Ivan Flores Hurtado</h3>
         <p  data-aos="fade-up">
-        You are a click away from building your dream website or web app. Send me the details of your project for a modern, mobile responsive, highly performant website today!
+        You are a click away from getting Product Management and UX Design services from a passionate and experienced professional.
         </p>
         <div className="header__cta"  data-aos="fade-up">
           <a href="#contact" className='btn primary'>Let's Talk</a>
