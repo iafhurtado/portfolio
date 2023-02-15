@@ -28,10 +28,16 @@ const About = () => {
                     }
                 </div>
                 <p>
-                Building projects my clients love have always been my passion. Being in the web development industry for over 3 years and serving more than 70 happy clients worldwide, I'm always motivated to do more!
+                Building products that users love to use is my passion. I have 5+ years of experience in Product Management and UX Design. I have worked with startups and large companies in the US, Europe, and Latin America. I am a native Spanish speaker and I am fluent in English and German, with a little bit of Russian there. I am currently based in the Hamburg, Germany.
                 </p>
                 <p>
-                Hi, my name is Hajia Bintu from Accra, Ghana. I'm a full-stack web developer with a Bachelors degree in Computer Science. My top priority is to get your business online the right way, giving you industry-standard design and all the functionality you need to operate smoothly online. Get in touch today with the details of your project let's get started! Check out my resume below!
+                Hi, my name is Ivan from Hermosillo, Mexico. I'm a full stack product developer with a Bachelor's degree in Operations Management from the University of Arizona and a Masters in Global Logistics from the KLU. Nothing to do with Software Engineering right?
+                </p>
+                <p>
+                Well, after my Masters I recognized that software was eating the world and decided to jump off the deep-end from the Product Management plank. It is wild the amount of decisions that a Product Manager must take every day. Successful product building is a three-legged stool. 
+                </p>
+                <p>
+                Engineering, Product Management and Design are each leg on which a great product lies on. Each leg will not tell the other how to do any specific task, but they each lean on each other to get shot done. 
                 </p>
                 <a href={CV} download className='btn primary'>Download CV <HiDownload/></a>
             </div>
