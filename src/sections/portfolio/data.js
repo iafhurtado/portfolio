@@ -40,7 +40,7 @@ const data = [
         id: 4,
         category: 'uiux',
         image: Image4,
-        title: "Project Title Four (UIUX)",
+        title: "Whistleblower App (UIUX)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: 'http://egatortutorials.com',
         github: 'https://github.com/egattor'
@@ -49,7 +49,7 @@ const data = [
         id: 5,
         category: 'uiux',
         image: Image5,
-        title: "Project Title Five (UIUX)",
+        title: "Privacy and Compliance Platform (UIUX)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ",
         demo: 'http://egatortutorials.com',
         github: 'https://github.com/egattor'
@@ -58,7 +58,7 @@ const data = [
         id: 6,
         category: 'frontend',
         image: Image6,
-        title: "Project Title Six (Frontend)",
+        title: "Customer Journey Map (Frontend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: 'http://egatortutorials.com',
         github: 'https://github.com/egattor'
@@ -67,7 +67,7 @@ const data = [
         id: 7,
         category: 'frontend',
         image: Image7,
-        title: "Project Title Seven (Frontend)",
+        title: "Little Lemon Restaurant (Frontend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: 'http://egatortutorials.com',
         github: 'https://github.com/egattor'
@@ -76,7 +76,7 @@ const data = [
         id: 8,
         category: 'backend',
         image: Image8,
-        title: "Project Title Eight (Backend)",
+        title: "Crown Clotthing (Backend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: 'http://egatortutorials.com',
         github: 'https://github.com/egattor'
@@ -85,7 +85,7 @@ const data = [
         id: 9,
         category: 'frontend',
         image: Image9,
-        title: "Project Title Nine (Frontend)",
+        title: "Xocolatl Mexican Stablecoin (Frontend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: 'http://egatortutorials.com',
         github: 'https://github.com/egattor'
