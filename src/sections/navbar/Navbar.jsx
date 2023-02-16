@@ -12,7 +12,7 @@ const Navbar = () => {
     <nav>
       <div className="container nav__container">
         <a href="index.html" className='nav__logo'>
-          <a><FiRefreshCw/></a>
+
         </a>
         <ul className='nav__menu'>
           {
