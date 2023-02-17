@@ -1,11 +1,11 @@
 import Image1 from '../../assets/project1.png'
 import Image2 from '../../assets/project2.png'
 import Image3 from '../../assets/project3.png'
-import Image4 from '../../assets/project4.jpg'
-import Image5 from '../../assets/project5.jpg'
+import Image4 from '../../assets/project4.png'
+import Image5 from '../../assets/project5.png'
 import Image6 from '../../assets/project6.jpg'
-import Image7 from '../../assets/project7.jpg'
-import Image8 from '../../assets/project8.jpg'
+import Image7 from '../../assets/project7.png'
+import Image8 from '../../assets/project8.png'
 import Image9 from '../../assets/project9.png'
 
 const data = [
@@ -67,19 +67,19 @@ const data = [
         id: 7,
         category: 'frontend',
         image: Image7,
-        title: "Little Lemon Restaurant (Frontend)",
-        desc: "This web app is made with React and was made for the capstone project during my coursera studies to become a Frontend developer. The app is a restaurant website that allows users to book a table and order food.",
+        title: "Crown Clotthing (Frontend)",
+        desc: "This is part of my Frontend developer journey. This is a React app that allows users to shop for clothes. The app is connected to a backend server that allows users to sign up, sign in, add items to their cart, and checkout. It uses Redux and hooks to manage the state of the app.",
         demo: '-',
-        github: 'https://github.com/iafhurtado/little-lemon'
+        github: 'https://github.com/iafhurtado/crwn-clothing-v2-lesson-10'
     },
     {
         id: 8,
         category: 'frontend',
         image: Image8,
-        title: "Crown Clotthing (Frontend)",
-        desc: "This is part of my Frontend developer journey. This is a React app that allows users to shop for clothes. The app is connected to a backend server that allows users to sign up, sign in, add items to their cart, and checkout. It uses Redux and hooks to manage the state of the app.",
+        title: "Little Lemon Restaurant (Frontend)",
+        desc: "This web app is made with React and was made for the capstone project during my coursera studies to become a Frontend developer. The app is a restaurant website that allows users to book a table and order food.",
         demo: '-',
-        github: 'https://github.com/iafhurtado/crwn-clothing-v2-lesson-10'
+        github: 'https://github.com/iafhurtado/little-lemon'
     },
     {
         id: 9,
