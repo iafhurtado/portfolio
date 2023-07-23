@@ -49,7 +49,7 @@ const App = () => {
   
 
   return (
-    <main className={`${themeState.primary} ${themeState.background}`} ref={mainRef}>
+    <main className={`${themeState.primary} ${themeState.background.bg2}`} ref={mainRef}>
         <Navbar/>
         <Header/>
         <About/>
