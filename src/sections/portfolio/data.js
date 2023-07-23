@@ -67,26 +67,26 @@ const data = [
         id: 7,
         category: 'frontend',
         image: Image7,
-        title: "Crown Clotthing (Frontend)",
-        desc: "This is part of my Frontend developer journey. This is a React app that allows users to shop for clothes. The app is connected to a backend server that allows users to sign up, sign in, add items to their cart, and checkout. It uses Redux and hooks to manage the state of the app.",
-        demo: '-',
-        github: 'https://github.com/iafhurtado/crwn-clothing-v2-lesson-10'
+        title: "NFT Minter (Frontend)",
+        desc: "This is my 1st build as part of BuidlGuidl, a community of web3 builders using Scaffold-eth-2 to build quick Frontends connecting any smart contracts on any EVM chain. You can mint yourself a COFFEE NFT in Sepolia and trade it on OpenSea(testnet).",
+        demo: 'https://nftminter-pi.vercel.app/mintnft',
+        github: 'https://github.com/iafhurtado/nftminter'
     },
     {
         id: 8,
         category: 'frontend',
         image: Image8,
-        title: "Little Lemon Restaurant (Frontend)",
-        desc: "This web app is made with React and was made for the capstone project during my coursera studies to become a Frontend developer. The app is a restaurant website that allows users to book a table and order food.",
-        demo: '-',
-        github: 'https://github.com/iafhurtado/little-lemon'
+        title: "ERC20 Token Vendor (Frontend)",
+        desc: "This is a simple web3 build displaying the smart contracts of an ERC20 token vendor. The frontend was built using Scaffold-Eth(1) and the smart contracts were deployed on the Sepolia testnet using Hardhat.",
+        demo: 'https://ignorant-selection.surge.sh/',
+        github: 'https://sepolia.etherscan.io/address/0xd5f7bdc0eabfc86b4459abdd6875a8cd3b8193c2#code'
     },
     {
         id: 9,
         category: 'product management',
         image: Image9,
         title: "Xocolatl Mexican Stablecoin (Product Management)",
-        desc: "This project was born during ETHMexico 2021. The goal of this project was to create a mexican stablecoin that would be backed by (Wrapped) Ether. The project was built with Svelte and uses the Metamask wallet to connect to the blockchain.",
+        desc: "This project was born during ETHMexico 2021. The goal of this project was to create a mexican stablecoin that would be backed by (Wrapped) Ether. Pioneering project in the Mexican DeFi space.",
         demo: 'https://xocolatl.finance/',
         github: 'https://github.com/La-DAO'
     }
