@@ -12,6 +12,7 @@ import Theme from './theme/Theme';
 import { useThemeContext } from './context/theme-context';
 import {useRef, useState, useEffect} from 'react'
 
+
 const App = () => {
   const {themeState} = useThemeContext();
 
@@ -49,7 +50,7 @@ const App = () => {
   
 
   return (
-    <main className={`${themeState.primary} ${themeState.background.bg2}`} ref={mainRef}>
+    <main className={`${themeState.primary} ${themeState.background}`} ref={mainRef}>
         <Navbar/>
         <Header/>
         <About/>
