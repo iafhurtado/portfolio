@@ -38,12 +38,12 @@ const data = [
     },
     {
         id: 4,
-        category: 'uiux',
+        category: 'frontend',
         image: Image4,
-        title: "Whistleblower App (UIUX)",
-        desc: "The goal of this project was to design a whistleblower app that would allow users to report any wrongdoing in their organization. The app would allow users to report anonymously and would allow the organization to track the progress of the report.",
-        demo: 'https://www.figma.com/proto/5jqZRHGnLA4mvxWIi49y6f/Whistleblower-App?page-id=0%3A1&node-id=148%3A167&viewport=1176%2C424%2C0.1&scaling=min-zoom',
-        github: 'https://www.figma.com/file/5jqZRHGnLA4mvxWIi49y6f/Whistleblower-App?node-id=148%3A167&t=ZdzJtfFZFu0ysLhg-1'
+        title: "Scaffold-XOC (Frontend)",
+        desc: "This is a simple dApp to interact with Xocolatl, Mexico's first decentralized stablecoin. The frontend was built using Scaffold-Eth-2 and the smart contracts were deployed on Polygon using Foundry. Clone the repo to play with it.",
+        demo: 'https://scaffold-xoc.vercel.app/',
+        github: 'https://github.com/La-DAO/scaffold-xoc'
     },
     {
         id: 5,
@@ -83,12 +83,12 @@ const data = [
     },
     {
         id: 9,
-        category: 'product management',
+        category: 'research & analysis',
         image: Image9,
-        title: "Xocolatl Mexican Stablecoin (Product Management)",
-        desc: "This project was born during ETHMexico 2021. The goal of this project was to create a mexican stablecoin that would be backed by (Wrapped) Ether. Pioneering project in the Mexican DeFi space.",
-        demo: 'https://xocolatl.finance/',
-        github: 'https://github.com/La-DAO'
+        title: "Product Requirement Document (Research & Anaylsis)",
+        desc: "The goal of this project was to draft a PRD for an e-commerce fulfillment integration in the Shopify appstore. I was asked with benchmarking other apps in this space and then document how this application's features and functionality would look like.",
+        demo: 'https://www.upwork.com/freelancers/~01b830b8c51f54f474?viewMode=1&s=1044578476142100493&p=1756654550158512128',
+        github: 'https://docs.google.com/document/d/1P868M26uPmH5nxObovz8HQsd7AMEqvJhN3jH8HDroO0/edit?usp=sharing'
     }
 ]
 
