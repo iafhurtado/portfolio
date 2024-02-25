@@ -28,16 +28,16 @@ const About = () => {
                     }
                 </div>
                 <p>
-                Building products that users love to use is my passion. I have 5+ years of experience in Product Management and UX Design. I have worked with startups and large companies in the US, Europe, and Latin America. I am a native Spanish speaker and I am fluent in English and German, with a little bit of Russian there. I am currently based in the Hamburg, Germany.
+                I'm Ivan, originally from Hermosillo, Mexico, currently based in Hamburg, Germany. With over 6 years of experience in Product Management and UX Design, I've had the privilege of working with startups and corporate giants across the US, Europe, and Latin America.
                 </p>
                 <p>
-                Hi, my name is Ivan from Hermosillo, Mexico. I'm a full stack product developer with a Bachelor's degree in Operations Management from the University of Arizona and a Masters in Global Logistics from the KLU. Nothing to do with Software Engineering right?
+                My journey into tech wasn't exactly traditional. Armed with a Bachelor's degree in Operations Management from the University of Arizona and a Masters in Global Logistics from the KLU, I initially pursued a path far from software engineering.
                 </p>
                 <p>
-                Well, after my Masters I recognized that software was eating the world and decided to jump off the deep-end from the Product Management plank. It is wild the amount of decisions that a Product Manager must take every day. Successful product building is a three-legged stool. 
+                However, the rapid evolution of technology soon caught my attention. Recognizing the transformative power of software, I made the leap into Product Management. It's been an exhilarating ride ever since.
                 </p>
                 <p>
-                Engineering, Product Management and Design are each leg on which a great product lies on. Each leg will not tell the other how to do any specific task, but they each lean on each other to get shot done. 
+                For me, successful product development is akin to a three-legged stool. Engineering, Product Management, and Design each play crucial roles, supporting and complementing one another. Collaboration and synergy among these disciplines are key to delivering exceptional products that users love.
                 </p>
                 <a href={CV} download className='btn primary'>Download CV <HiDownload/></a>
             </div>
